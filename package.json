@@ -1,5 +1,5 @@
 {
-	"name": "bs-rnrf",
+	"name": "bs-react-native-router-flux",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
