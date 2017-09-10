@@ -1,0 +1,13 @@
+{
+  "name": "bs-rnrf",
+  "reason": {
+    "react-jsx": 2
+  },
+  "bs-dependencies": ["reason-react"],
+  "bsc-flags": ["-bs-super-errors"],
+  "sources": [
+    {
+      "dir": "re"
+    }
+  ]
+}
